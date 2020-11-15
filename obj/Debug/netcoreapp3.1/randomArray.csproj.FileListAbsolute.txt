@@ -1,0 +1,13 @@
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.exe
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.deps.json
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.runtimeconfig.json
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.runtimeconfig.dev.json
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.dll
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\bin\Debug\netcoreapp3.1\randomArray.pdb
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.csprojAssemblyReference.cache
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.AssemblyInfoInputs.cache
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.AssemblyInfo.cs
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.csproj.CoreCompileInputs.cache
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.dll
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.pdb
+C:\Users\veldy_fyzztec\Documents\my projects\randomArray\obj\Debug\netcoreapp3.1\randomArray.genruntimeconfig.cache
