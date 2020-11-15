@@ -29,9 +29,7 @@ namespace randomArray
       } 
       
       int num = Array.IndexOf(countArray, countArray.Max()) + 1;
-
       Console.WriteLine($"Чаще всего встречается число {num}, {countArray.Max()} раз");
-      
     }
   }
 }
